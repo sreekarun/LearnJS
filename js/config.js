@@ -15,7 +15,10 @@ var require = {
         backbone:                    'vendor/backbone-min',
 
         // Date library
-        moment:                      'vendor/moment.min'
+        moment:                      'vendor/moment.min',
+
+        // Date library
+        d3:                          'vendor/d3.min'
 
     },
 
